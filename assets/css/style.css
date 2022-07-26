@@ -1,0 +1,147 @@
+* {
+    font-family: sans-serif;
+}
+
+.table {
+    margin: 10px 10px 0 10px;
+    color: rgb(111, 194, 111);
+    opacity: 0.8;
+}
+
+
+body{
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701413083.jpg);
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.btn:hover {
+    background: white;
+    color: rgb(111, 194, 111);
+}
+
+#search-box {
+    width: 500px;
+    margin: 10px;
+    float: right;
+    border-radius: 50px;
+    margin-right: 20px;
+    margin-left: 968px;
+    margin-bottom: -40px;
+    color: rgb(111, 194, 111);
+    background-color: black
+}
+
+#api {
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 28px;
+    margin-left: 15px;
+    width: 1000px;
+    display: inline;
+    color: aliceblue;
+}
+
+#dropdownMenuButton {
+    color: rgb(111, 194, 111);
+}
+
+.dropdown-menu:hover{
+    background-color: black;
+}
+
+#editar {
+    color: rgb(111, 194, 111);
+}
+
+#remover {
+    color: rgb(111, 194, 111);
+
+}
+
+#heading {
+    background: rgb(6, 6, 6);
+    color: aliceblue;
+    margin-right: 294px;
+    margin-left: 315px;
+    padding: 20px;
+    margin-top: 20px;
+    align-content: center;
+    opacity: 0.8;
+}
+
+#heading h1 {
+    font-size: 40px;
+    margin-bottom: -10px;
+    margin-left: 20px;
+    color: rgb(111, 194, 111);
+}
+
+#reload {
+    float: right;
+    background-color: black;
+    color: rgb(111, 194, 111);
+    margin: 10px 80px 10px 0;
+}
+
+
+#save-btn {
+    background-color: rgb(111, 194, 111);
+    color: black;
+}
+
+#close-btn {
+    background-color: black;
+    color: rgb(111, 194, 111);
+}
+
+.col-form-label {
+    color: rgb(111, 194, 111);
+}
+
+
+#exampleModalLabel {
+    color: rgb(111, 194, 111);
+}
+
+#recipient-name {
+    color: black;
+}
+
+#message-text {
+    color: black;
+}
+
+.close{
+    color: rgb(111, 194, 111);
+}
+
+#no {
+    background-color: black;
+    color: rgb(111, 194, 111);
+}
+
+#excluir {
+    background-color: rgb(111, 194, 111);
+    color: black;
+}
+
+#exampleModalLongTitle {
+    color: rgb(111, 194, 111);
+}
+
+.pagination{
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.pagination_link {
+    height: 40px;
+    width: 40px;
+    border-radius: 30%;
+    background-color: rgb(111, 194, 111);
+    color: black;
+}
